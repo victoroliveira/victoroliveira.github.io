@@ -1,0 +1,21 @@
+body {
+  padding: 80px;
+  font: 1rem/1.5 -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+}
+
+.picture {
+  width: 30%;
+  border-radius: 50%;
+}
+
+.icon {
+  font-size: 50px;
+}
+
+.fa-twitter {
+  color: #1A8CD8;
+}
+
+.fa-github {
+  color: black;
+}
