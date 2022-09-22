@@ -1,10 +1,10 @@
 body {
-  padding: 80px;
+  padding: 250px;
   font: 1rem/1.5 -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
 }
 
 .picture {
-  width: 30%;
+  width: 20%;
   border-radius: 50%;
 }
 
